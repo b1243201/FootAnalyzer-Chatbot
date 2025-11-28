@@ -15,5 +15,5 @@ tempCodeRunnerFile.py
 faiss
 index.pkl
 faiss_index/
-git.gitignore
+.gitignore
 
